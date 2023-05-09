@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.7"
+  },
+  "dependencies": {
+    "@hashgraph/hardhat-hethers": "^1.0.4",
+    "@hashgraph/hethers": "^1.2.5",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@rari-capital/solmate": "^6.4.0"
+  }
+}
